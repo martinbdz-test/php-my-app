@@ -1,5 +1,6 @@
 <?php
 //Trigger a change
+echo $_GET["name"];
 echo 123;
 goto end;
 
