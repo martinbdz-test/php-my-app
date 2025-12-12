@@ -6,4 +6,4 @@ function outputName($name) {
 
 $var = $_GET['name'];
 
-outputName($name);
+outputName($var);
